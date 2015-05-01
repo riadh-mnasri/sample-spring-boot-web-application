@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.test
+Build-Jdk: 1.8.0_40
+Built-By: riadh
+Created-By: IntelliJ IDEA
+Main-Class: com.github.rmnasri.SampleWebJspApplication
+
