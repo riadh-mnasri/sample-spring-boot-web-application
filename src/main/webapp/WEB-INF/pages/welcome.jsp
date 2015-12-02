@@ -14,7 +14,7 @@
 <%--<c:url value="/resources/text.txt" var="url"/>
 <spring:url value="/resources/text.txt" htmlEscape="true" var="springUrl" />
 Spring URL: ${springUrl} at ${time}--%>
-<h1>${message} at ${time}</h1>
+<h1>${message}</h1>
 </body>
 
 </html>
